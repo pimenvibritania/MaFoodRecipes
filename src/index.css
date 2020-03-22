@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.jumbo{
+  margin: 0px 20px;
+  background-color: #343a40 !important;
+}
+
+.recipe{
+
+  display: inline-block !important;
+  margin: 0px 20px 20px 0px !important;
+}
+
+.card-img, .card-img-bottom, .card-img-top{
+  height: 250px;
+}
+
+.ha2{
+  color: aliceblue !important;
+}
